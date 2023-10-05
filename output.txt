@@ -1,0 +1,8 @@
+###############################
+## Starting Terraform script ##
+###############################
+Configuring AWS Profiles
+insight-dev
+us-west-2
+
+[0m[1mInitializing the backend...[0m
